@@ -90,7 +90,10 @@ class Board
     puts
   end
 
-
+  # !! Still need to make kings look different from pawns
+  # Still need a win condition
+  # Need to test multiple jumping move functionality
+  # Needs some healthy refactoring
 
 
 
